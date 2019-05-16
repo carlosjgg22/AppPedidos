@@ -1,0 +1,6 @@
+# AppPedidos
+App para controlar peridos costos y mantener un historial
+Cesar lo que hice fue realizar el primer Activity de la Aplicacion... 
+tengo el master por defecto y agregue un branch llamado login.. 
+
+hasta ahora no he hecho nada.. solo para entender los comandos git y enlazarlos con el github... 
